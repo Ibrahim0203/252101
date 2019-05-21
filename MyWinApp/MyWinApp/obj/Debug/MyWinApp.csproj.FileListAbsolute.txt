@@ -1,0 +1,10 @@
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+D:\Day2\Git\252101\252101\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
